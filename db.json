@@ -1,0 +1,29 @@
+{
+  "productos": [
+    {
+      "nombre": "Jugo de Jamaica",
+      "precio": 100,
+      "id": 9
+    },
+    {
+      "nombre": "Agua de Limón",
+      "precio": "845",
+      "id": 11
+    },
+    {
+      "nombre": "Jugo de Vainilla",
+      "precio": "1500",
+      "id": 12
+    },
+    {
+      "nombre": "Jugo de Torombolo",
+      "precio": 2500,
+      "id": 13
+    },
+    {
+      "nombre": "Jugo de Tubo",
+      "precio": 100,
+      "id": 14
+    }
+  ]
+}
